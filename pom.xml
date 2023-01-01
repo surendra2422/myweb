@@ -10,8 +10,6 @@
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
 		<sonar.host.url>http://52.221.193.145:9000/</sonar.host.url>
-		<maven.compiler.source>7</maven.compiler.source>
-                <maven.compiler.target>7</maven.compiler.target>
 
 	</properties>
 	<dependencies>
